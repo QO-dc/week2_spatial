@@ -3,10 +3,10 @@
 
 Este proyecto utiliza varias librerías de R para manejar y visualizar datos geoespaciales. 
 
-## Data descargada:  
+## Data descargada de (https://ourairports.com/data/)  
 
-1. Airpots
-2. Navaids
+1. Airpots.csv
+2. Navaids.csv
 
 ## Mapas georeferenciales en shapefile 
 
@@ -16,7 +16,7 @@ Este proyecto utiliza varias librerías de R para manejar y visualizar datos geo
 
 ## Mapas generados 
 
-1. Mapa del Estado de Francia y los airpots y navaids
+1. Mapa del Estado de Francia, los airpots y navaids
 2. Mapa del mundo que interconecta World_Cities, World_Countries y World_Hydrography
 
 ## Enlace al trabajo 
