@@ -58,7 +58,7 @@ ggplot() +
   geom_sf (data = airports_france, color = "red", size = 0.1) +
   geom_sf (data = navaids_france, color = "yellow", size = 0.1) +
  theme_minimal() +
-  labs(title = "Mapa de Francia con Ciudades e Hidrografía",
+  labs(title = "Mapa de Francia con Ciudades, airpots y navaids",
        x = "Longitud", y = "Latitud")
 ```
 
@@ -69,7 +69,7 @@ ggplot() +
   geom_sf(data = layer3, color = "red", size = 1) + # Tercera capa (e.g., Regiones de agua)
   geom_sf(data = airports_sf, color = "yellow", size = 0.0001) + # Tercera capa (e.g., Aeropuertos)
   theme_minimal() +
-  labs(title = "Mapa con tres capas geoespaciales", x = "Longitud", y = "Latitud")
+  labs(title = "Mapa mundial con cuatro capas geoespaciales", x = "Longitud", y = "Latitud")
 ```
 
 
