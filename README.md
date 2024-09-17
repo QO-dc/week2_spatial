@@ -19,3 +19,6 @@ Este proyecto utiliza varias librerías de R para manejar y visualizar datos geo
 1. Mapa del Estado de Francia y los airpots y navaids
 2. Mapa del mundo que interconecta World_Cities, World_Countries y World_Hydrography
 
+## Enlace al trabajo 
+
+https://qo-dc.github.io/week2_spatial/Index.html
